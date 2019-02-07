@@ -13,7 +13,5 @@ __pycache__/keys.cpython-36.pyc
 .DS_Store
 merged.csv
 merged_hr_sleep_steps.csv
-keys.py
-data/*
-export/*
+
 .ipynb_checkpoints
