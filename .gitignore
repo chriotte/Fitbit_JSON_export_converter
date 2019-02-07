@@ -16,3 +16,4 @@ merged_hr_sleep_steps.csv
 keys.py
 /data/*
 /data*
+.ipynb_checkpoints
