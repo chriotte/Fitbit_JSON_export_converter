@@ -17,7 +17,7 @@ Collaborators are very welcome to enhance and extend the code.
 ### Further work
 
 1. Adding more JSON files to the script
-This tutorial only covered a few of the measurements exported, and it just a matter of code-lines to integrate more readings into the cleaning script. 
+This current code only covers a few of the measurements exported, and it just a matter of code-lines to integrate more readings into the cleaning script. 
 
 2. Improve the loading speed
 Currently it takes quite a bit of time to load all the JSON files, and since we have the timestamp in each file, the load process can be moved away from a slow loop into a quicker parallel function. 
