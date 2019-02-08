@@ -32,3 +32,12 @@ Currently no missing values are being filled in, but this can easily be done wit
 The ultimate goal of this project is to be able to download the data, have python automatically clean it and generate helpful reports.
 This can be simple exploratory data analysis, or some more clever machine learning on the parameters - with so much data collected, the only limit is our imagination!
 
+## Output
+The current output is a .csv file of all the merged .json files
+
+The Notebook also produces a visual and interactive analysis of the data.
+Example:
+![](images/data_information.png)
+
+
+
