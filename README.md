@@ -1,7 +1,7 @@
 # Fitbit_JSON_export_converter
 
 Code to clean up and convert the messy .json files from Fitbits Export Tool into Pandas DataFrame and .csv format 
-See the accompanying [blog post for detaild description of the script](http://dataespresso.com/en/2019/02/07/fitbit-json-to-csv/)
+See the accompanying [blog post for detailed description of the script](http://dataespresso.com/en/2019/02/07/fitbit-json-to-csv/)
 
 
 ## Collaborators needed
